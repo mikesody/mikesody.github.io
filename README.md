@@ -4,5 +4,6 @@ associated website for tutorials in Data Visualization, Spring 2019, Columbia Un
 Data Vis Projects:
 <ul>
   <li><a href="mikesody.github.io/tutorial_01">Home Page</a></li>
-  <li><a href="mikesody.github.io/project_01">Project_01 Progress</a></li>
+  <li><a href="mikesody.github.io/project_01">Project_01</a></li>
+  <li><a href="mikesody.github.io/project_02">Project_02</a></li>
 </ul>

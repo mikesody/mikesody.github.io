@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>D3js New York</title>
+  <!-- <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.3.2/css/bulma.min.css"> -->
+  <script src="https://d3js.org/d3.v4.min.js" charset="utf-8"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://unpkg.com/d3-simple-slider"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Oswald:300,400,500" rel="stylesheet">
+
+  <style>
+
+    body {
+      font-family: 'Oswald', sans-serif;
+      font-weight: 300;
+      background-color: #333;
+    }
+
+    .outlines {
+      fill: #666;
+      stroke: #999;
+      stroke-width: 0.5;
+    }
+
+    .squares {
+      /* fill: #ff0000; */
+      /* stroke: #333;
+      stroke-width: 0.3; */
+      opacity: 0.7;
+    }
+
+    svg {
+      background-color: #333;
+      padding: 20px;
+    }
+
+    .button {
+      border: 1px solid #eee;
+      padding: 1px 5px;
+      width: 100px;
+      font-family: 'Oswald', sans-serif;
+      font-weight: 300;
+      font-size: 14pt;
+      background-color: #333;
+      clear: both;
+      color: #eee;
+      margin-top: 5px;
+    }
+
+    .options {
+      margin-left: 20px;
+      padding: 20px;
+      align-self: right;
+      align: right;
+      background-color: #333;
+      display: block;
+      float: left;
+      color: #eee;
+      font-weight: 300;
+    }
+
+    .map {
+      display: block;
+      align: left;
+      align-self: left;
+      float: left;
+      background-color: #333;
+    }
+
+
+  </style>
+</head>
+
+<body>
+
+  <div class="map" style="width: 650px; height: 650px;"></div>
+  <div class="options" style="width: 200px; height: 650px;">
+    <p style="font-size: 18pt;">Party Report [WIP]</p>
+
+    <button id="buttonMon" class="button">Monday</button>
+    <button id="buttonTue" class="button">Tuesday</button>
+    <button id="buttonWed" class="button">Wednesday</button>
+    <button id="buttonThu" class="button">Thursday</button>
+    <button id="buttonFri" class="button">Friday</button>
+    <button id="buttonSat" class="button">Saturday</button>
+    <button id="buttonSun" class="button">Sunday</button>
+    <button id="buttonTot" class="button">Total</button>
+    <img src="warm.png" style="width: 200px; height: 15px; float: left; padding-top: 200px;"/>
+    <span style="align: left; display: block; font-size: 10px; float: left;" id="min">0</span>
+    <span style="align: right; display: block; font-size: 10px;float: right;" id="max">###</span>
+    <p style="font-size: 10px; clear: both;">created by Mike Soderberg</p>
+    <!-- <button id="button1" class="button">test</button>
+    <button id="button1" class="button">test</button> -->
+  </div>
+
+  <script type="text/javascript" src="ny.js"></script>
+
+
+</body>
+
+</html>
