@@ -14,7 +14,7 @@ files.forEach(function(url) {
   promises.push(d3.csv(url))
 });
 
-promises.push(d3.json("data/points.json"));
+// promises.push(d3.json("data/points.json"));
 
 Promise.all(promises).then(function(data) {
   ready(data);
