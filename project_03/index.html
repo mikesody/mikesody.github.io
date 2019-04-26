@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>A Day in the Life</title>
+  <script src="https://d3js.org/d3.v5.min.js" charset="utf-8"></script>
+  <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <script src="https://d3js.org/topojson.v2.min.js"></script>
+  <script src="https://unpkg.com/d3-simple-slider"></script>
+  <script src="https://d3js.org/d3-color.v1.min.js"></script>
+  <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700|Oswald:300,400,500" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Oswald';
+      font-size: 12pt;
+      color: #333;
+      font-weight: 300;
+      line-height: 6pt;
+    }
+    h2 {
+      font-size: 18pt;
+      font-weight: 400;
+      padding-left: 10px;
+    }
+    h1 {
+      font-size: 22pt;
+      font-weight: 400;
+      padding-left: 10px;
+    }
+    h3 {
+      font-size: 16pt;
+      font-weight: 500;
+      padding-left: 10px;
+    }
+
+  </style>
+</head>
+
+<body>
+  <div id="map" style="width: 800px; height: 450px; background-color: #eeeeee;">
+    <img src="Final_Vid.gif" style="width: 800px; height: 450px;" />
+  </div>
+  <div id="new_map">
+
+  </div>
+  <div style="clear:both;">
+    <div id="pie-graph" style="display:block; float: left;"></div>
+    <div id="pie-raw" style="display:block; float: left;"></div>
+    <div id="title" style="display:block; float: left; width: 400px;">
+      <h1>A Day in the Life</h1>
+      <h3>Current Time: <span id="clock">###</span></h3>
+      <p style="line-height: 14pt; padding-left: 10px;">What does the average day in America look like for the typical American household? Where do people spend their time during the day?
+        This simulation was designed to help understand the answers.</p>
+      <p><span style="font-size: 8pt; font-weight: 300; padding-left: 10px">Inspired by <a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/" target="_blank">Nathan Yau's Project</a>. Data sourced from
+          <a href="https://www.bls.gov/tus/" target="_blank">The Bureau of Labor Statistics</a>.</span></p>
+      <div id="slider"></div>
+    </div>
+  </div>
+  <div style="clear: both;">
+    <div style="display:block; float: left; width: 200px; height: 450px; padding-left: 10px">
+      <h2>Places</h2>
+      <p style="color:#2f4858">home: <span id="hme">###</span></p>
+      <p style="color:#016778">retail: <span id="rtl">###</span></p>
+      <p style="color:#008585">school: <span id="sch">###</span></p>
+      <p style="color:#00a27c">food: <span id="fod">###</span></p>
+      <p style="color:#56ba5f">work: <span id="wrk">###</span></p>
+      <p style="color:#e8e631">hospital: <span id="hsp">###</span></p>
+      <p style="color:#38507d">church: <span id="chu">###</span></p>
+    </div>
+    <div style="display:block; float: left; width: 200px; height: 450px; padding-left: 10px">
+      <h2>Activities</h2>
+      <p style="color:#6f479c">sleeping: <span id="slp">###</span></p>
+      <p style="color:#82499c">personal care: <span id="psc">###</span></p>
+      <p style="color:#95499c">eating and drinking: <span id="ead">###</span></p>
+      <p style="color:#ae4896">education: <span id="edu">###</span></p>
+      <p style="color:#cb4799">working: <span id="wkg">###</span></p>
+      <p style="color:#e64599">housework: <span id="hsw">###</span></p>
+      <p style="color:#ef4a89">household care: <span id="hhc">###</span></p>
+      <p style="color:#f05378">non-household care: <span id="nhh">###</span></p>
+      <p style="color:#f15e66">shopping: <span id="shp">###</span></p>
+      <p style="color:#f26d54">professional care: <span id="pro">###</span></p>
+      <p style="color:#f47d47">leisure: <span id="les">###</span></p>
+      <p style="color:#f79038">sports: <span id="spt">###</span></p>
+      <p style="color:#f0a62e">religion: <span id="rel">###</span></p>
+      <p style="color:#e1b92d">volunteering: <span id="vln">###</span></p>
+      <p style="color:#cfcd33">phone calls: <span id="phc">###</span></p>
+      <p style="color:#bed747">miscellaneous: <span id="mis">###</span></p>
+      <p style="color:#aaaaaa">traveling: <span id="trv">###</span></p>
+    </div>
+  </div>
+  <div id="pie-details" style="display: block; float: left; width: 50%">
+    <svg></svg>
+    <span id="full_details" style="font-size: 9pt; line-height: 8pt;">
+      <div id="fields" style="width: 60%; float: left;">
+        <p style="font-weight: 400;">Activity Names<br /></p>
+      </div>
+      <div id="population" style="width: 20%; float: left; text-align: right;">
+        <p style="font-weight: 400;"># of Hours Daily in Activity</p>
+      </div>
+      <div id="percentage" style="width: 20%; float: left; text-align: right;">
+        <p style="font-weight: 400;">Percentage of Population</p>
+      </div>
+    </span>
+  </div>
+  <script type="text/javascript" src="sketch.js"></script>
+</body>
+
+</html>

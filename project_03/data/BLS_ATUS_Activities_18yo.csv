@@ -1,0 +1,112 @@
+abbr,field,hours2007,percent2007,hours2008,percent2008,hours2009,percent2009,hours2010,percent2010,hours2011,percent2011,hours2012,percent2012,hours2013,percent2013,hours2014,percent2014,hours2015,percent2015,hours2016,percent2016,hours2017,percent2017
+sleep,Sleeping,8.52,99.9,8.55,99.9,8.62,99.9,8.63,99.9,8.68,99.9,8.68,99.9,8.7,99.9,8.74,99.9,8.77,99.9,8.73,99.9,8.74,99.9
+groom,Grooming,0.66,78.7,0.66,78.8,0.66,77.7,0.68,79.9,0.68,79,0.66,77.5,0.68,79.9,0.68,80.6,0.68,80.8,0.69,80.5,0.67,79.8
+self care,Health-related self care,0.07,5.4,0.09,6.6,0.08,6.3,0.09,6.5,0.07,5.9,0.07,5.9,0.09,6.7,0.08,6.9,0.1,7.2,0.07,6.5,0.08,7
+personal activities,Personal activities,0.01,0.5,0.02,0.9,0.01,0.8,0.01,0.6,0.01,0.5,0.01,0.4,0.01,0.3,0.01,0.4,0.01,0.6,0.01,0.6,0.01,0.8
+housework,Housework,0.66,37.2,0.6,36.5,0.63,37.3,0.6,35.6,0.6,34.6,0.62,35.7,0.6,35.3,0.57,35.8,0.59,37.1,0.6,36.9,0.57,35.3
+cleaning,Interior cleaning,0.42,25.8,0.38,25,0.41,25.8,0.37,23.8,0.39,23,0.41,24.6,0.37,23.7,0.35,23.4,0.35,23.9,0.36,24,0.36,23.7
+laundry,Laundry,0.19,16.9,0.18,16.9,0.17,16.4,0.18,15.8,0.17,15.2,0.18,15.8,0.17,15.6,0.18,16.2,0.19,17.6,0.19,17.7,0.17,16.3
+storing,"Storing interior household items, including food",0.02,4.9,0.02,5.3,0.02,5.8,0.02,5.6,0.02,5.6,0.02,5.2,0.02,6,0.02,6.4,0.02,6.9,0.02,6.3,0.02,6.2
+food prep,Food preparation and cleanup,0.54,52.8,0.55,54.4,0.57,56.5,0.58,56.7,0.58,55.1,0.55,54.4,0.6,57,0.61,58.2,0.62,58.5,0.61,59.7,0.62,59.2
+food + drink prep,Food and drink preparation,0.41,48.5,0.42,51.4,0.43,52.7,0.46,53.7,0.45,51.8,0.43,51,0.47,53.4,0.47,54.7,0.47,54.8,0.48,55.9,0.49,55.8
+food clean up,Kitchen and food clean-up,0.13,21.8,0.12,21.8,0.13,23,0.12,21.4,0.12,20.9,0.11,19.8,0.12,21.8,0.13,23.7,0.14,23.5,0.13,23,0.13,23.1
+interior maintenance,"Interior maintenance, repair, and decoration",0.09,3.8,0.07,3.1,0.08,3.3,0.07,3.1,0.06,2.9,0.06,2.6,0.07,3.2,0.07,3,0.07,2.8,0.06,3.1,0.06,2.9
+exterior maintenance,"Exterior maintenance, repair, and decoration",0.06,2.9,0.06,2.9,0.06,3.2,0.06,3.2,0.07,3,0.06,2.7,0.05,2.9,0.06,3.1,0.06,3.3,0.05,2.6,0.06,3.1
+yard care,Lawn and garden care,0.22,10.9,0.2,9.8,0.21,9.8,0.22,10.3,0.2,9.5,0.19,10.1,0.19,9.6,0.2,9.7,0.21,10.2,0.2,10.7,0.18,10
+animals,Animals and pets,0.1,14.5,0.09,14.8,0.09,15.2,0.1,14.7,0.09,14.2,0.1,15.6,0.1,15.9,0.11,16,0.11,17.4,0.13,18,0.13,18.1
+animal care,"Care for animals and pets, not veterinary care", , ,0.05,11.2,0.05,11.6,0.05,10.5,0.05,10.4,0.05,11.5,0.05,11.5,0.06,11.8,0.06,12.9,0.07,13.8,0.07,13.8
+walking pets,"Walking, exercising, and playing with animals", , ,0.05,5.9,0.05,6.3,0.05,6.4,0.04,5.7,0.05,6.8,0.05,6.8,0.05,6.8,0.05,7.6,0.05,7.3,0.06,7.4
+vehicles,Vehicles,0.04,2.7,0.04,2.7,0.04,2.5,0.04,2.5,0.04,2.4,0.04,2,0.04,2.4,0.05,2.3,0.04,2.5,0.04,2.3,0.04,2.4
+appliances,"Appliances, tools, and toys",0.02,1.6,0.01,1.2,0.02,1.6,0.02,1.6,0.02,1.3,0.01,1.4,0.02,1.3,0.02,1.1,0.02,1.5,0.02,1.5,0.02,1.9
+finances,Financial management,0.04,4.2,0.04,4.3,0.04,4.5,0.03,4.1,0.03,3.4,0.03,3.7,0.03,3.4,0.03,3.5,0.03,3.6,0.03,3.4,0.03,3.4
+household planning,Household and personal organization and planning,0.11,14.1,0.09,13.8,0.1,15,0.09,14.3,0.1,13.1,0.1,12.9,0.1,13.9,0.09,13.4,0.11,15.1,0.11,16,0.1,15.5
+household child care,Caring for and helping household children (except activities related to education and health),0.4,22.3,0.39,22.7,0.4,21.7,0.38,21.6,0.36,20.7,0.37,20.4,0.37,20.9,0.38,21.2,0.37,20.9,0.37,20.8,0.37,20.4
+children physical care,Physical care for household children,0.17,15.9,0.18,16.6,0.17,15.6,0.16,15.8,0.15,14.5,0.15,14.3,0.15,15,0.16,15,0.15,14.8,0.16,15.2,0.15,14.5
+reading with children,Reading to and with household children,0.02,2.9,0.01,2.8,0.01,2.6,0.01,3,0.01,2.6,0.01,2.6,0.01,2.6,0.01,2.6,0.01,2.9,0.01,2.8,0.01,2.8
+playing with children,"Playing with household children, not sports",0.11,6.2,0.09,5.7,0.11,6.1,0.1,5.9,0.11,5.7,0.11,6,0.11,5.7,0.1,5.3,0.1,5.6,0.09,5.6,0.1,5.3
+talking with children,Talking with and listening to household children,0.02,2.9,0.02,3.2,0.02,3.2,0.02,3.1,0.02,3,0.02,2.7,0.02,2.7,0.02,3,0.02,3.1,0.02,2.8,0.02,2.9
+children's events,Attending household children's events,0.02,1,0.03,1.4,0.02,1.2,0.02,1.2,0.02,1,0.02,1.1,0.02,1.2,0.02,1.3,0.02,1,0.02,1.2,0.02,1.3
+children's home education,Activities related to household children's education,0.03,3.6,0.04,4,0.04,3.8,0.04,3.6,0.04,4,0.04,3.7,0.04,4.2,0.04,4.2,0.04,3.8,0.04,3.8,0.03,3.1
+children's homework,Helping household children with homework,0.03,3.3,0.03,3.6,0.03,3.4,0.03,3.3,0.03,3.6,0.03,3.3,0.04,4,0.03,3.9,0.03,3.4,0.03,3.4,0.02,2.7
+children's health,Activities related to household children's health,0.01,0.9,0.01,1.1,0.01,1,0.01,0.9,0.01,0.8,0.01,0.9,0.01,0.9,0.01,1.1,0.01,1,0.01,0.9,0.01,0.8
+household care,Caring for household adults,0.03,1.9,0.02,1.9,0.02,2.1,0.02,1.9,0.02,1.9,0.02,2.2,0.02,2.4,0.03,2.5,0.02,2.5,0.03,2.9,0.03,2.6
+household physical care,Physical care for household adults,0.01,1.2,0.01,1.4,0.01,1.5,0.01,1.4,0.01,1.3,0.01,1.3,0.01,1.7,0.02,1.6,0.01,1.7,0.01,1.9,0.02,1.7
+helping household adults,Helping household adults,0.01,3.4,0.01,3.7,0.01,3.2,0.01,3.6,0.01,3.5,0.01,3.2,0.01,4.2,0.01,3.4,0.01,3.5,0.01,4,0.01,4
+non-household care,Caring for nonhousehold adults,0.01,0.7,0.01,0.8,0.01,0.8,0.01,0.7,0.01,0.7,0.01,0.6,0.01,0.7,0.01,0.8,0.01,1,0.01,0.9,0.01,0.8
+helping non-household adults,Helping nonhousehold adults,0.06,7.8,0.06,8.1,0.06,8.5,0.07,7.8,0.06,7.3,0.05,6.9,0.06,6.9,0.05,6.4,0.06,6.9,0.06,7.7,0.06,7
+working,Working,3.64,47.8,3.55,46.8,3.34,44.7,3.3,44,3.36,44.1,3.36,43.8,3.29,43.4,3.4,43.7,3.35,44.1,3.44,45.1,3.39,44
+work-related,Work-related activities,0.01,0.4,0.01,0.8,0.01,0.5,0.01,0.6,0.01,0.5,0,0.4,0.01,0.4,0.01,0.6,0.01,0.3,0,0.2,0,0.1
+income-generation,Other income-generating activities,0.02,0.7,0.03,0.9,0.03,1.1,0.03,1,0.04,1,0.02,0.8,0.02,0.8,0.02,0.8,0.03,0.9,0.02,1,0.03,0.9
+job searching,Job search and interviewing,0.02,1.2,0.04,1.5,0.05,2.3,0.05,2.1,0.04,2,0.04,1.7,0.04,1.3,0.04,1.6,0.03,1.3,0.03,1.3,0.03,1.1
+attending class,Attending class,0.1,2.6,0.1,2.5,0.1,2.7,0.11,3,0.12,3,0.12,2.9,0.09,2.4,0.1,2.7,0.1,2.7,0.11,2.8,0.11,2.9
+college studies,"Taking class for degree, certificate, or licensure",0.09,2.1,0.09,2.1,0.09,2.4,0.1,2.5,0.1,2.5,0.1,2.6,0.08,2,0.09,2.2,0.09,2.2,0.1,2.4,0.1,2.6
+homework,Homework and research,0.1,3.4,0.13,3.9,0.13,3.7,0.12,3.9,0.12,3.8,0.13,4.3,0.14,3.7,0.12,3.9,0.14,3.9,0.13,4,0.13,3.9
+retail shopping,Consumer goods purchases,0.4,41.4,0.39,41.1,0.38,40.7,0.38,40.5,0.38,39.9,0.36,38.3,0.38,40.1,0.36,39.4,0.37,40.9,0.37,41.2,0.35,41
+grocery shopping,Grocery shopping,0.1,13.5,0.1,13.5,0.11,14.7,0.11,14.4,0.11,14.3,0.1,12.9,0.11,14.7,0.12,14.8,0.11,14.1,0.11,14.2,0.11,14.3
+pro care,Professional and personal care services,0.09,8.7,0.08,9.2,0.09,8.9,0.08,8.3,0.08,7.4,0.08,7.6,0.08,7.5,0.09,8.2,0.08,8.1,0.09,8.1,0.08,7.5
+banking,Financial services and banking,0.01,3.6,0.01,3.4,0.01,3.4,0.01,2.9,0.01,2.6,0.01,2.5,0.01,2.3,0.01,2.5,0.01,2.6,0.01,2.4,0.01,1.9
+medical care,Medical and care services,0.05,3.3,0.05,3.7,0.06,3.7,0.05,3.5,0.04,2.9,0.05,3.4,0.05,3.5,0.06,4,0.05,3.6,0.06,4,0.06,3.9
+personal care,Personal care services,0.02,1.7,0.02,1.7,0.01,1.5,0.02,1.4,0.02,1.5,0.02,1.3,0.02,1.4,0.02,1.4,0.02,1.6,0.02,1.3,0.02,1.4
+household services,Household services,0.02,2.1,0.01,2.2,0.01,2.1,0.02,1.9,0.01,1.8,0.01,2,0.01,1.7,0.02,1.9,0.02,2.3,0.02,2.4,0.01,2
+home repair,"Home maintenance, repair, decoration, and construction (not done by self)",0.01,0.4,0,0.5,0,0.5,0.01,0.5,0,0.3,0,0.3,0,0.4,0,0.4,0.01,0.5,0.01,0.6,0,0.5
+vehicle repair,Vehicle maintenance and repair services (not done by self),0.01,1,0.01,1,0.01,1,0.01,1,0.01,0.9,0.01,1,0.01,0.8,0.01,1.1,0.01,1.1,0.01,1.2,0.01,1
+civic obligations,Civic obligations and participation,0,0.1,0,0.4,0,0.1,0,0.2,0,0.1,0,0.3,0,0.1,0,0.2,0,0.2,0.01,0.3,0,0.1
+eating and drinking,Eating and drinking,1.13,95.6,1.12,96,1.12,96.4,1.14,95.9,1.13,95.8,1.14,96,1.12,96.3,1.08,95.5,1.07,95,1.07,94.6,1.06,95
+leisure,"Socializing, relaxing, and leisure",4.52,94.9,4.64,95.3,4.69,95.1,4.64,94.8,4.66,94,4.79,95.2,4.74,94.5,4.77,94.9,4.68,95.2,4.6,94.9,4.74,94.4
+socializing,Socializing and communicating (except social events),0.63,36.2,0.62,36.6,0.62,37,0.62,34.8,0.6,33.2,0.64,34.9,0.65,35.1,0.64,35.9,0.61,36.3,0.59,34.5,0.56,33.6
+hosting social events,Attending or hosting social events,0.09,2.8,0.07,2.3,0.07,2.3,0.08,2.5,0.08,2.5,0.09,2.9,0.07,2.2,0.06,2.2,0.07,2.1,0.07,2.3,0.09,2.7
+relaxing,Relaxing and leisure,3.71,91,3.86,91.3,3.92,91.6,3.85,90.4,3.89,89.8,3.99,91.1,3.94,90.7,3.98,90.7,3.92,91.2,3.88,91.5,4,90.6
+thinking,Relaxing and thinking,0.3,20.8,0.27,20.2,0.26,19.8,0.3,19.5,0.3,19.1,0.3,18.7,0.31,19.3,0.29,19.3,0.3,20.2,0.32,20.9,0.37,21.3
+games,Playing games,0.17,8,0.18,8.1,0.2,9.4,0.19,8.6,0.19,8.1,0.18,8.8,0.21,9.6,0.2,9.6,0.2,10,0.21,10.2,0.24,10.3
+computer leisure,"Computer use for leisure, excluding games",0.13,8.9,0.13,8.6,0.15,10.2,0.19,11.4,0.21,13.2,0.2,12.6,0.2,13.3,0.22,13.3,0.18,12.8,0.17,11.1,0.19,12.5
+reading,Reading for personal interest,0.37,25.8,0.36,24.7,0.35,25,0.31,21.8,0.31,20.7,0.34,21.4,0.33,21.1,0.33,21.9,0.33,21.8,0.3,20.2,0.29,19.3
+art and entertainment,Arts and entertainment (other than sports),0.09,3.2,0.08,3,0.08,3.1,0.08,3,0.08,2.8,0.08,3,0.08,2.9,0.09,3,0.08,2.8,0.07,2.7,0.08,3
+exercise,"Sports, exercise, and recreation",0.31,18.2,0.29,17.7,0.3,18,0.3,18.2,0.3,18.4,0.31,18.9,0.3,18.6,0.3,19.1,0.3,20.4,0.31,20.7,0.28,18.8
+religious activities,Religious and spiritual activities,0.15,9.2,0.15,9.4,0.15,9.1,0.16,9.5,0.15,9,0.15,9.2,0.15,9.1,0.14,9.1,0.15,10,0.16,9.8,0.14,9.6
+religious services,Attending religious services,0.1,5.2,0.09,4.9,0.09,4.8,0.1,4.8,0.1,5.3,0.1,4.9,0.09,4.8,0.08,4.4,0.09,4.6,0.09,4.8,0.08,4.2
+religious participation,Participating in religious practices,0.04,4.4,0.04,4.7,0.04,4.7,0.05,4.9,0.04,4.4,0.04,4.6,0.04,4.5,0.05,5.2,0.05,5.9,0.05,5.5,0.04,5.7
+volunteer activities,Volunteer activities,0.16,6.9,0.15,6.7,0.15,7,0.15,6.7,0.15,5.9,0.13,5.8,0.14,6.1,0.13,6.3,0.14,6.4,0.12,5.7,0.15,5.8
+administrative activities,Administrative and support activities,0.03,2.5,0.04,2.6,0.05,3.1,0.04,2.5,0.04,2.2,0.04,2.4,0.04,2.7,0.04,2.4,0.05,3.3,0.03,2.2,0.04,2.3
+social serves,Social service and care activities (except medical),0.04,1.8,0.04,1.8,0.04,2,0.04,1.8,0.03,1.6,0.03,1.6,0.04,1.8,0.04,1.9,0.04,1.7,0.03,1.7,0.04,1.7
+building maintenance,"Indoor and outdoor maintenance, building, and cleanup activities",0.01,0.6,0.01,0.5,0.01,0.6,0.01,0.6,0.01,0.4,0.01,0.3,0.01,0.3,0,0.2,0.01,0.5,0.01,0.5,0.01,0.4
+cultural activities,Participating in performance and cultural activities,0.01,0.4,0.01,0.4,0.01,0.4,0.01,0.4,0.01,0.4,0.01,0.4,0.01,0.5,0.01,0.5,0.01,0.4,0.01,0.5,0.01,0.5
+meetings and trainings,"Attending meetings, conferences, and training",0.02,1,0.01,0.7,0.02,1,0.02,1,0.02,0.7,0.02,0.9,0.02,0.9,0.02,0.8,0.02,1,0.01,0.6,0.01,0.7
+personal care travel,Travel related to personal care,0.02,2.3,0.01,2.4,0.02,2.2,0.01,2.5,0.02,2.1,0.02,2.3,0.01,1.8,0.02,2.6,0.02,3.1,0.03,3,0.02,2.5
+household travel,Travel related to household activities,0.05,9.7,0.04,9.4,0.05,10,0.04,9.2,0.05,8.8,0.04,8.3,0.04,8.8,0.04,8.4,0.05,9.8,0.05,9.6,0.05,9.2
+household care travel,Travel related to caring for and helping household members,0.08,13.6,0.09,14,0.08,12.9,0.08,13.2,0.08,13,0.08,12.5,0.09,13.9,0.09,13.4,0.08,13.7,0.08,13.2,0.08,13.2
+non-household care travel,Travel related to caring for and helping nonhousehold members,0.06,10.2,0.06,10.1,0.06,10.5,0.06,9.8,0.06,9.2,0.06,9,0.06,8.6,0.05,8,0.06,9,0.06,9.5,0.06,8.3
+work travel,Travel related to work,0.3,41.3,0.29,39.9,0.29,38.2,0.29,38,0.29,38.3,0.29,37.5,0.28,36.4,0.29,37.6,0.28,37,0.29,38.1,0.3,37.3
+education travel,Travel related to education,0.01,2.7,0.02,2.6,0.02,2.9,0.02,2.9,0.02,3.2,0.02,3,0.02,2.5,0.02,2.8,0.02,2.7,0.02,2.5,0.02,2.9
+eating and drinking travel,Travel related to eating and drinking,0.12,25.9,0.12,24.9,0.11,25,0.12,23.7,0.11,23,0.12,23.2,0.11,23.2,0.1,22.2,0.11,23.3,0.11,23.4,0.11,22.2
+personal care activities,Personal care activities,9.27,100,9.34,100,9.4,100,9.43,99.9,9.45,100,9.43,100,9.49,100,9.52,100,9.58,99.9,9.52,100,9.53,100
+household activities,Household activities,1.92,76,1.8,75.2,1.88,77.5,1.86,77,1.84,75.3,1.81,75.4,1.85,76,1.84,75.8,1.91,77.7,1.9,78.7,1.87,77.5
+household management,Household management,0.14,18.2,0.13,18.1,0.14,19.3,0.13,17.9,0.13,16.3,0.13,16.5,0.13,17.2,0.12,17,0.14,18.7,0.14,19.3,0.13,19
+household member care,Caring for and helping household members,0.56,26.4,0.56,26.9,0.56,25.9,0.53,25.8,0.53,25,0.53,25.1,0.55,26.3,0.56,26.3,0.53,25.6,0.55,26,0.55,25.5
+household child care,Caring for and helping household children,0.44,22.6,0.44,23.1,0.45,22.3,0.42,22,0.41,21.4,0.42,21.1,0.43,21.5,0.43,21.7,0.41,21.4,0.42,21.3,0.42,20.8
+household care,Caring for and helping household adults,0.04,5,0.04,5.4,0.03,5.1,0.03,5.3,0.03,5,0.03,5.1,0.04,6.3,0.05,5.7,0.04,5.7,0.04,6.4,0.05,6.1
+non-household member care,Caring for and helping nonhousehold members,0.2,12.6,0.23,13,0.21,13,0.22,12.1,0.21,11.5,0.18,11.1,0.19,11.2,0.18,10.7,0.19,11.3,0.21,12,0.19,10.3
+non-household children care,Caring for and helping nonhousehold children,0.07,5.1,0.09,5.2,0.07,4.8,0.07,4.6,0.08,4.3,0.06,4.3,0.07,4.4,0.07,4.2,0.06,4.4,0.08,4.4,0.06,3.4
+non-household care,Caring for and helping nonhousehold adults,0.07,8.2,0.08,8.6,0.07,8.9,0.08,8.1,0.07,7.7,0.06,7.3,0.06,7.3,0.07,6.8,0.07,7.3,0.07,8.3,0.07,7.4
+working,Working and work-related activities,4,49.4,3.92,48.7,3.71,47.4,3.68,46.7,3.74,46.6,3.72,45.8,3.64,45.1,3.75,45.7,3.7,45.9,3.78,46.9,3.76,45.6
+education,Educational activities,0.22,4.9,0.25,4.8,0.26,5.2,0.25,5.4,0.27,5.5,0.28,5.5,0.25,4.8,0.25,5.4,0.27,5.2,0.26,5.2,0.28,5.6
+goods purchase,Purchasing goods and services,0.8,45.2,0.78,45.4,0.78,45,0.76,44.7,0.74,43.5,0.74,42.2,0.76,43.8,0.75,43.8,0.76,44.7,0.78,45.4,0.74,44.8
+purchases travel,Travel related to purchasing goods and services,0.29,43.5,0.29,43.8,0.28,43.3,0.28,43.3,0.27,42.3,0.27,41,0.28,42.5,0.27,42.2,0.29,42.9,0.3,43.2,0.28,43
+eating and drinking,Eating and drinking,1.25,95.6,1.24,96,1.24,96.4,1.26,95.9,1.25,95.8,1.26,96,1.24,96.3,1.18,95.6,1.19,95,1.18,94.6,1.18,95
+leisure and sports,Leisure and sports,5.06,95.6,5.14,96,5.21,96,5.15,95.7,5.18,95.2,5.33,96.1,5.25,95.2,5.27,95.7,5.18,96.1,5.12,95.8,5.23,95.5
+socializing,Socializing and communicating,0.72,37.9,0.7,37.9,0.69,38.4,0.7,36.3,0.69,34.8,0.73,36.8,0.72,36.4,0.71,37.2,0.68,37.6,0.66,35.8,0.65,35.2
+watching tv,Watching TV,2.65,79.5,2.82,81.4,2.86,82,2.76,79.5,2.79,78.5,2.87,80.3,2.81,80,2.85,80.1,2.82,80.4,2.77,79.6,2.82,78.1
+organizational activities,"Organizational, civic, and religious activities",0.35,14.7,0.34,14.8,0.34,14.6,0.35,15,0.35,13.9,0.33,14,0.32,14,0.32,14.4,0.34,15.2,0.33,14.5,0.33,14.1
+volunteering,Volunteering (organizational and civic activities),0.16,7.1,0.15,7,0.15,7.1,0.15,6.9,0.15,6,0.13,6.1,0.14,6.2,0.14,6.4,0.15,6.5,0.13,6,0.15,5.9
+religious travel,"Travel related to organizational, civic, and religious activities",0.05,9.5,0.04,9.1,0.04,8.8,0.04,9,0.05,9.2,0.04,8.4,0.04,8.2,0.04,8.5,0.04,8.4,0.04,8.3,0.04,7.6
+government services,Government services,0,0.5,0,0.5,0.01,0.5,0.01,0.5,0,0.5,0.01,0.4,0.01,0.6,0,0.4,0,0.4,0,0.5,0,0.3
+household mail,Household and personal mail and messages,0.03,7,0.02,7.2,0.02,6.5,0.02,6,0.02,5.2,0.02,5.1,0.01,5.3,0.02,5.4,0.02,6,0.02,5.4,0.02,5.1
+household email,Household and personal e-mail and messages,0.05,7.9,0.06,9.4,0.06,9.4,0.05,7.7,0.04,6.6,0.03,5.6,0.03,6.2,0.03,5.8,0.03,6.1,0.03,5.8,0.03,5.1
+sports participation,"Participating in sports, exercise, and recreation",0.29,17.5,0.26,16.8,0.28,17.4,0.28,17.5,0.28,17.7,0.29,18.2,0.27,17.9,0.27,18.3,0.28,19.9,0.29,19.9,0.26,18
+walking,Walking,0.05,5.6,0.04,5,0.05,5.3,0.04,5.2,0.05,5.5,0.05,5.8,0.05,5.2,0.05,5.7,0.06,6.6,0.06,7.2,0.06,6.5
+sports attendance,Attending sporting or recreational events,0.03,0.9,0.03,1,0.02,0.8,0.02,0.9,0.03,1,0.02,0.8,0.02,0.8,0.03,1,0.02,0.7,0.02,0.9,0.03,0.9
+phone calls,Telephone calls (to or from),0.1,13.6,0.12,14.8,0.11,15.2,0.09,13.6,0.09,12.7,0.1,12.7,0.09,12.7,0.09,12.6,0.09,13.2,0.1,13.1,0.1,12.7
+phone call travel,Travel related to telephone calls,0,0.5,0,0.4,0,0.7,0,0.7,0,0.5,0,0.5,0,0.8,0,0.8,0,0.9,0.01,0.6,0,0.7
+leisure travel,Travel related to leisure and sports,0.23,33.9,0.21,33.1,0.22,33.9,0.21,31.9,0.22,32,0.22,31.5,0.22,32.1,0.2,32.3,0.2,33,0.21,32,0.21,31.9
+phone calls + mail + email,"Telephone calls, mail, and e-mail",0.17,23.7,0.2,26,0.19,25.7,0.17,22.9,0.16,21.4,0.15,20.1,0.15,20.9,0.14,20.4,0.15,21.3,0.16,21,0.14,19.6
+other,"Other activities, not elsewhere classified",0.2,14.3,0.2,14.5,0.24,15.7,0.35,18.8,0.29,16.3,0.24,14.3,0.31,17.6,0.23,15.6,0.19,13.9,0.22,16.2,0.21,17.1
+personal messages,Household and personal messages,0.07,13.6,0.08,15.4,0.08,14.5,0.07,12.7,0.06,11.2,0.05,9.8,0.05,10.9,0.05,10.5,0.06,11.2,0.05,10.5,0.05,9.3
